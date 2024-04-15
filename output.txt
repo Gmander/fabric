@@ -1,0 +1,5 @@
+{
+    "Topic": "Automating data quality automation",
+    "Story": "As a user, I want to automate data quality checks so that I can ensure data accuracy and reliability.",
+    "Criteria": "Given that I am a user, when I select the 'Automate Data Quality' option, then I should be able to choose the data sources to apply the checks on. After selecting the data sources and specifying the types of checks, when I click the 'Run Checks' button, then the system should automatically perform the specified data quality checks and provide a report on the findings."
+}
